@@ -1,32 +1,32 @@
-absl-py @ file:///C:/ci/absl-py_1600290345082/work
-argon2-cffi @ file:///C:/ci/argon2-cffi_1596828549974/work
+absl-py==0.10.0
+argon2-cffi==20.1.0
 astor==0.8.1
-attrs @ file:///tmp/build/80754af9/attrs_1598374659300/work
+attrs==20.1.0
 backcall==0.1.0
 bleach==3.1.5
 blinker==1.4
 bokeh==2.2.1
 brotlipy==0.7.0
-cachetools @ file:///tmp/build/80754af9/cachetools_1596822027882/work
+cachetools==4.1.1
 certifi==2020.6.20
-cffi @ file:///C:/ci/cffi_1598352799320/work
+cffi==1.14.2
 chardet==3.0.4
 click==7.1.2
 colorama==0.4.3
-cryptography @ file:///C:/ci/cryptography_1598873979408/work
+cryptography==3.1
 cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0
 entrypoints==0.3
 Flask==1.1.2
 gast==0.2.2
-google-auth @ file:///tmp/build/80754af9/google-auth_1600274525154/work
+google-auth==1.21.2
 google-auth-oauthlib==0.4.1
 google-pasta==0.2.0
-grpcio @ file:///C:/ci/grpcio_1597406403308/work
+grpcio==1.31.0
 h5py==2.8.0
-idna @ file:///tmp/build/80754af9/idna_1593446292537/work
-importlib-metadata @ file:///C:/ci/importlib-metadata_1593446525189/work
+idna==2.10
+importlib-metadata==1.7.0
 ipykernel==5.2.0
 ipython==7.13.0
 ipython-genutils==0.2.0
@@ -34,31 +34,29 @@ ipywidgets==7.5.1
 itsdangerous==1.1.0
 jedi==0.16.0
 Jinja2==2.11.2
-jsonschema @ file:///C:/ci/jsonschema_1594363671836/work
+jsonschema==3.2.0
 jupyter==1.0.0
 jupyter-client==6.1.3
-jupyter-console @ file:///tmp/build/80754af9/jupyter_console_1598884538475/work
+jupyter-console==6.2.0
 jupyter-core==4.6.3
-Keras-Applications @ file:///tmp/build/80754af9/keras-applications_1594366238411/work
+Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
 kiwisolver==1.2.0
 livelossplot==0.5.3
-Markdown @ file:///C:/ci/markdown_1597415185889/work
-MarkupSafe @ file:///C:/ci/markupsafe_1594405949945/work
-matplotlib @ file:///C:/ci/matplotlib-base_1592846084747/work
-mistune @ file:///C:/ci/mistune_1594373272338/work
-mkl-fft==1.1.0
-mkl-random==1.1.1
-mkl-service==2.3.0
-nbconvert @ file:///C:/ci/nbconvert_1594372737468/work
+Markdown==3.2.2
+MarkupSafe==1.1.1
+matplotlib==3.2.2
+mistune==0.8.4
+nbconvert==5.6.1
 nbformat==5.0.7
-notebook @ file:///C:/ci/notebook_1596837179121/work
-numpy @ file:///C:/ci/numpy_and_numpy_base_1596233945180/work
+notebook==6.1.1
+numpy==1.19.1
 oauthlib==3.1.0
 olefile==0.46
 opt-einsum==3.1.0
+opencv-python==4.4.0.42
 packaging==20.4
-pandas @ file:///C:/ci/pandas_1598371525254/work
+pandas==1.1.1
 pandocfilters==1.4.2
 parso==0.7.0
 pickleshare==0.7.5
@@ -69,31 +67,29 @@ prompt-toolkit==3.0.5
 protobuf==3.13.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.7
-pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pycparser==2.20
 Pygments==2.6.1
 PyJWT==1.7.1
-pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1594392929924/work
+pyOpenSSL==19.1.0
 pyparsing==2.4.7
 pyrsistent==0.16.0
-PySocks @ file:///C:/ci/pysocks_1594394709107/work
+PySocks==1.7.1
 python-dateutil==2.8.1
 pytz==2020.1
-pywin32==227
 pywinpty==0.5.7
 PyYAML==5.3.1
 pyzmq==19.0.0
-qtconsole @ file:///tmp/build/80754af9/qtconsole_1598374667791/work
+qtconsole==4.7.6
 QtPy==1.9.0
-requests @ file:///tmp/build/80754af9/requests_1592841827918/work
+requests==2.24.0
 requests-oauthlib==1.3.0
-rsa @ file:///tmp/build/80754af9/rsa_1596998415516/work
-scipy @ file:///C:/ci/scipy_1597686737426/work
+rsa==4.6
+scipy==1.5.2
 seaborn==0.10.1
 Send2Trash==1.5.0
-setuptools==49.6.0.post20200814
+setuptools==49.6.0
 six==1.15.0
 tensorboard==2.2.1
-tensorboard-plugin-wit==1.6.0
 tensorflow==2.1.0
 tensorflow-estimator==2.1.0
 termcolor==1.1.0
@@ -103,7 +99,7 @@ tfkerassurgeon==0.2.1
 tornado==6.0.4
 traitlets==4.3.3
 typing-extensions==3.7.4.3
-urllib3 @ file:///tmp/build/80754af9/urllib3_1597086586889/work
+urllib3==1.25.10
 wcwidth==0.1.9
 webencodings==0.5.1
 Werkzeug==0.16.1

@@ -1,0 +1,6 @@
+*.md
+app.yaml
+.gcloudignore
+/.git
+.git?
+/videos
